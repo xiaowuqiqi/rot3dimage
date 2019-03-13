@@ -1,0 +1,9 @@
+/*
+ rot3dimage v1.0.3
+ (c) 2019.03 wallacety.
+ github:https://github.com/wallacety/rot3dimage
+ Blog:https://me.csdn.net/qq_29018891
+ Emile:1506988056@qq.com
+ License: M
+*/
+#hrefAEle{display:block;width:100%;height:100%;position:absolute;z-index:5;top:0;left:0}.Slice3dPoster ul{padding:0;margin:0;width:100%;height:100%;list-style:none;transform-style:preserve-3d}.Slice3dPoster li{height:100%;float:left;position:relative;transform-style:preserve-3d}.Slice3dPoster span{position:absolute;left:0;top:0;width:100%;height:100%}#slice3dPoster-left,#slice3dPoster-right{position:absolute;top:50%;width:50px;height:70px;background:rgba(0,0,0,.2);transform:translateY(-50%);text-align:center;line-height:70px;font-size:20px;color:#fff;text-decoration:none;font-weight:bold}#slice3dPoster-right{right:0}
