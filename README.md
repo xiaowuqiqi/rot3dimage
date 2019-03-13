@@ -1,5 +1,5 @@
 # rot3dimage
-原生简单的3D轮播图插件
+原生简单的3D轮播图插件，有源码，有中文注释。
 
 #### 导读
 1，引入./dist/css/rot3dimage.css和./dist/js/rot3dimage.js
@@ -73,7 +73,7 @@ slice3dPoster.setRightEle(document.getElementById("test-right"));
 </html>
 ```
 #### 关于
- rot3dimage v1.0.3
+ rot3dimage v1.0.5
  (c) 2019.03 wallacety.
  github:https://github.com/wallacety/rot3dimage
  Blog:https://me.csdn.net/qq_29018891
