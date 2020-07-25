@@ -1,6 +1,5 @@
 # rot3dimage
-采用css3技术，小巧轻便，可用于博客构建，网站。
-原生简单的3D轮播图插件，有源码，有中文注释。
+采用css3技术，小巧轻便，可用于博客构建，网站，原生简单的3D轮播图插件。
 
 #### 导读
 1，引入./dist/css/rot3dimage.css和./dist/js/rot3dimage.js
@@ -73,11 +72,4 @@ slice3dPoster.setRightEle(document.getElementById("test-right"));
 </body>
 </html>
 ```
-#### 关于
- rot3dimage v1.0.5
- (c) 2019.03 wallacety.
- github:https://github.com/wallacety/rot3dimage
- Blog:https://me.csdn.net/qq_29018891
- Emile:1506988056@qq.com
- License: M
 
